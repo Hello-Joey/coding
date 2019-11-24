@@ -1,0 +1,21 @@
+.header{
+    position: absolute;
+   top: 0px;
+    left: 0px;
+    width: 1300px;
+    height: 300px;
+}
+.container{
+    position: absolute;
+top: 310px;
+    left: 400px;
+width: 900px;
+    height: 1300px;
+}
+.row{
+    position: absolute;
+left: 0px;
+    top: 310px;
+    width: 400px;
+    height: 1300px;
+}

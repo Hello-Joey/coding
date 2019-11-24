@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServletDemo.iml" filepath="$PROJECT_DIR$/ServletDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_Servlet/Test_Servlet.iml" filepath="$PROJECT_DIR$/Test_Servlet/Test_Servlet.iml" />
+      <module fileurl="file://E:/Firefox/download/apache-tomcat-9/webapps/bookstore/bookstore.iml" filepath="E:/Firefox/download/apache-tomcat-9/webapps/bookstore/bookstore.iml" />
+    </modules>
+  </component>
+</project>
